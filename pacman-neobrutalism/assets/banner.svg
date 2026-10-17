@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+<rect width="1200" height="350" fill="#FFF8E7"/><path d="M0 35H1200M0 315H1200" stroke="#111" stroke-width="8"/>
+<rect x="24" y="24" width="1150" height="290" fill="#111"/><rect x="14" y="14" width="1150" height="290" fill="#FFDE59" stroke="#111" stroke-width="7"/>
+<path d="M14 74H1164" stroke="#111" stroke-width="7"/><circle cx="43" cy="44" r="10" fill="#FF5C8A" stroke="#111" stroke-width="3"/><circle cx="75" cy="44" r="10" fill="#5BC0EB" stroke="#111" stroke-width="3"/><circle cx="107" cy="44" r="10" fill="#95F985" stroke="#111" stroke-width="3"/>
+<text x="139" y="51" font-family="monospace" font-weight="900" font-size="20">PLAYER_01 / PROFILE.EXE</text>
+<text x="53" y="146" font-family="Arial, sans-serif" font-weight="900" font-size="58" fill="#111">M. SAHRUL ADAMI</text>
+<text x="55" y="194" font-family="monospace" font-weight="900" font-size="25" fill="#111">FULL STACK DEVELOPER</text>
+<rect x="53" y="218" width="472" height="53" fill="#fff" stroke="#111" stroke-width="5"/><text x="69" y="252" font-family="monospace" font-size="22" font-weight="bold">EAT BUGS. SHIP CODE.</text>
+<g transform="translate(825 160)"><path d="M0 0 L87 -52 A101 101 0 1 0 87 52 Z" fill="#FFE000" stroke="#111" stroke-width="7"><animateTransform attributeName="transform" type="rotate" values="0;12;0" dur="0.55s" repeatCount="indefinite"/></path></g>
+<circle cx="952" cy="160" r="7" fill="#111"/><circle cx="996" cy="160" r="7" fill="#111"/><circle cx="1040" cy="160" r="7" fill="#111"/>
+<g transform="translate(1080 125)"><path d="M0 30A35 35 0 0 1 70 30V75l-12-10-12 10-11-10-11 10-12-10L0 75Z" fill="#FB6382" stroke="#111" stroke-width="5"/><ellipse cx="22" cy="32" rx="9" ry="13" fill="white"/><ellipse cx="47" cy="32" rx="9" ry="13" fill="white"/><circle cx="25" cy="34" r="5"/><circle cx="50" cy="34" r="5"/></g>
+</svg>
